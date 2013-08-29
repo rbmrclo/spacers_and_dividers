@@ -1,5 +1,7 @@
 # Spacers & Dividers
 
+[![Gem Version](https://badge.fury.io/rb/spacers_and_dividers.png)](http://badge.fury.io/rb/spacers_and_dividers)
+
 Spacers and Dividers is my own replacement for ```<hr/>``` and ```<br/>``` with
 tags with creative touch that you can also use in your projects.
 
@@ -36,3 +38,11 @@ Or install it yourself as:
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+  MIT License. Copyright (c) 2013 Robbie Marcelo, see [LICENSE] for full
+  details.
+
+
+[LICENSE]: http://github.com/rbmrclo/spacers_and_dividers/blob/master/LICENSE.txt
