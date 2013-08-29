@@ -24,12 +24,12 @@ Or install it yourself as:
    Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
    wizards will automatically do the spacing. (Without the brackets ofcourse)
    
-   Example:
-    ```<div class="vspacer-1000"></div>
+Example
+
+    <div class="vspacer-1000"></div>
     <h1> br sucks vspacer rocks! </h1>
-    <p> vspacer will generate a 1000px height </p>```
+    <p> vspacer will generate a 1000px height </p>
         
-   
 
 ## Includes
 
