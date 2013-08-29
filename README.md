@@ -22,7 +22,7 @@ Or install it yourself as:
 ## Usage
 
    Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
-   wizards will automatically do the spacing.
+   wizards will automatically do the spacing. (Without the brackets ofcourse)
 
 ## TODOS
 
