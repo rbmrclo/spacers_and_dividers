@@ -28,7 +28,7 @@ Lets get started
 
     # In your /application.js file add this line. If an error occurs, just restart your server.
     
-    ```//= require spacer```
+    //= require spacer
    
 Example
 
