@@ -1,6 +1,7 @@
-# SpacersAndDividers
+# Spacers & Dividers
 
-TODO: Write a gem description
+Spacers and Dividers is my own replacement for ```<hr/>``` and ```<br/>``` with
+tags with creative touch that you can also use in your projects.
 
 ## Installation
 
@@ -18,7 +19,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+   Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
+   wizards will automatically do the spacing.
+
+## TODOS
+
+1. Stylized Dividers
+2. Horizontal Spacers
 
 ## Contributing
 
