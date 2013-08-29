@@ -2,8 +2,7 @@
 
 [![Gem Version](https://badge.fury.io/rb/spacers_and_dividers.png)](http://badge.fury.io/rb/spacers_and_dividers)
 
-Spacers and Dividers is my own replacement for ```<hr/>``` and ```<br/>``` with
-tags with creative touch that you can also use in your projects.
+Spacers and Dividers is my own replacement for ```<hr/>``` and ```<br/>``` tags with creative touch (still in progress) that you can also use in your projects.
 
 ## Installation
 
@@ -21,10 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-   Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
+   The vertical spacer is the only available feature as of v1. We're still working on the awesome dividers. :)
+   To start using it, just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
    wizards will automatically do the spacing. (Without the brackets ofcourse)
 
-Lets get started
+Set it up
 
     # In your /application.js file add this line. If an error occurs, just restart your server.
     
