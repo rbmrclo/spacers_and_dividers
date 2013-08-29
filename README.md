@@ -26,6 +26,8 @@ Or install it yourself as:
 
 1. Stylized Dividers
 2. Horizontal Spacers
+3. Spacers.js
+4. Dividers.js
 
 ## Contributing
 
