@@ -24,6 +24,10 @@ Or install it yourself as:
    Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
    wizards will automatically do the spacing. (Without the brackets ofcourse)
 
+## Includes
+
+   [DomReady] - The smallest subset possible from jQuery to support dom Ready event.
+
 ## TODOS
 
 1. Stylized Dividers
@@ -46,3 +50,4 @@ Or install it yourself as:
 
 
 [LICENSE]: http://github.com/rbmrclo/spacers_and_dividers/blob/master/LICENSE.txt
+[DomReady]: https://code.google.com/p/domready/
