@@ -23,6 +23,12 @@ Or install it yourself as:
 
    Just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
    wizards will automatically do the spacing. (Without the brackets ofcourse)
+
+Lets get started
+
+    # In your /application.js file add this line. If an error occurs, just restart your server.
+    
+    ```//= require spacer```
    
 Example
 
