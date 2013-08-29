@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rbmrclo@hotmail.com"]
   spec.description   = %q{Spacers and Dividers}
   spec.summary       = %q{No more <br/> and <hr/> !!!}
-  spec.homepage      = ""
+  spec.homepage      = "http://rubygems.org/gems/spacers_and_dividers"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split("\n")
