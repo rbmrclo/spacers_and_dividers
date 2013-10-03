@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-   The vertical spacer is the only available feature as of v1. We're still working on the awesome dividers. :)
+   The vertical spacer is the only available feature as of now.
    To start using it, just create a ```<div class='vspacer-[PREFERRED HEIGHT]'></div>``` and the
    wizards will automatically do the spacing. (Without the brackets ofcourse)
 
@@ -37,9 +37,9 @@ Example
     <p> vspacer will generate a 1000px height </p>
         
 
-## Includes
+## Requires
 
-   [DomReady] - The smallest subset possible from jQuery to support dom Ready event.
+- Jquery
 
 ## TODOS
 

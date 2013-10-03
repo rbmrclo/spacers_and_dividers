@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rbmrclo@hotmail.com"]
   spec.description   = %q{Spacers and Dividers}
   spec.summary       = %q{No more <br/> and <hr/> !!!}
-  spec.homepage      = "http://rubygems.org/gems/spacers_and_dividers"
+  spec.homepage      = "http://github.com/rbmrclo/spacers_and_dividers"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split("\n")
@@ -20,4 +20,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "bundler", "~> 1.3"
   spec.add_development_dependency "rake"
+
+  spec.add_dependency "jquery-rails"
 end
